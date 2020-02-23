@@ -1,5 +1,5 @@
 # Machine-Learning-with-Python
-Analyzing different data to build descriptive and predictive models in Python, using Jupyter notebooks
+Analyzing different data to build descriptive and predictive models in Python, using Jupyter notebooks.
 
 In this work, a variety of supervised and unsupervised learning algorithms are implemented. These systems learn from experience to create simple predictive models.
 
