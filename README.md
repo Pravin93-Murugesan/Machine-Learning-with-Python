@@ -11,3 +11,7 @@ Core topics include:
   - Representation learning like clustering, dimensionality reduction, autoencoders and deep nets
   
 The machine learning algorithms are used to classify images, identify salient topics in a corpus of documents, partition people according to personality profiles, and automatically capture the semantic structure of words and use it to categorize documents.
+
+Datasets used:
+  - 'MNIST' is a classic dataset in machine learning, consisting of 28x28 gray-scale images handwritten digits. The original training set contains 60,000 examples and the test set contains 10,000 examples. 
+  - 'Spine Injury' to classify back injuries for patients in a hospital, based on measurements of the shape and orientation of their pelvis and spine.
