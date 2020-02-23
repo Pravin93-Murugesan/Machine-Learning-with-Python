@@ -2,7 +2,7 @@
 Analyzing different data to build descriptive and predictive models in Python, using Jupyter notebooks.
 
 <p align="center">
-<img src="https://github.com/Pravin93-Murugesan/Machine-Learning-with-Python/blob/master/pngwave.png" width="400"> 
+<img src="https://github.com/Pravin93-Murugesan/Machine-Learning-with-Python/blob/master/pngwave.png" width="500"> 
 </p>
 
 In this work, a variety of supervised and unsupervised learning algorithms are implemented. These systems learn from experience to create simple predictive models.
