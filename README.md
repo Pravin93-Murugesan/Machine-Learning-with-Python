@@ -19,3 +19,5 @@ The machine learning algorithms are used to classify images, identify salient to
 Datasets used:
   - 'MNIST' is a classic dataset in machine learning, consisting of 28x28 gray-scale images handwritten digits. The original training set contains 60,000 examples and the test set contains 10,000 examples. 
   - 'Spine Injury' to classify back injuries for patients in a hospital, based on measurements of the shape and orientation of their pelvis and spine.
+  - 'Wine data' to find the source winery of a bottle of wine based on its visual or chemical features.
+  
