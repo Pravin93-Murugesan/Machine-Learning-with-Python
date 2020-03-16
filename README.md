@@ -22,5 +22,6 @@ Datasets worked on:
   - **Wine data** to find the source winery of a bottle of wine based on its visual or chemical features.
   - **Diabetes** to find the progress of the condition using patients medical data such as age, body mass index, blood pressure etc. 
   - **Sentiment** which consists of both positive & negative reviews on imdb.com, amazon.com, and yelp.com is used to learn a classifier from this data.
-- **Iris** consists samples from three species of Iris with each sample containing five distinctive features. 
+  - **Iris** consists samples from three species of Iris with each sample containing five distinctive features. 
+  - **Animals with Attributes 2** consists samples from 50 species with each animal species containing 85 real-valued features. 
 
