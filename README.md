@@ -25,4 +25,7 @@ Datasets worked on:
   - **Animals with Attributes 2** consists samples from 50 species with each animal species containing 85 real-valued features. 
   
 To view the Jupyter notebooks, use the link below:  
-https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Machine-Learning-with-Python/tree/master/IPython%20notebooks/
+  - Look into the folder 'IPython notebooks' or
+  - Use the Jupyter nbviewer link and try the option 'Execute on Binder' to play with the code and learn/refresh machine learning      concepts  
+      
+      https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Machine-Learning-with-Python/tree/master/IPython%20notebooks/
