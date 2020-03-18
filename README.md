@@ -27,7 +27,4 @@ Datasets worked on:
 To view the Jupyter notebooks, use the link below:  
   - Look into the folder 'IPython notebooks' or
   - Use the [Jupyter nbviewer link](https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Machine-Learning-with-Python/tree/master/IPython%20notebooks/) and try the option 'Execute on Binder' to play with the code and learn/refresh machine learning      concepts  
-      
-    https://nbviewer.jupyter.org/github/Pravin93-Murugesan/Machine-Learning-with-Python/tree/master/IPython%20notebooks/
-    
-    [I'm an inline-style link](https://www.google.com)
+   
